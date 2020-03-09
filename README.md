@@ -1,2 +1,3 @@
 # hello-world
-Hello World repository
+Start of a github account
+A student that wants to program better
